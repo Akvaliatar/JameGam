@@ -1,2 +1,6 @@
 # JameGam
-a godot project
+
+╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
+┆  Hey welcome aboard!  ┆
+╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
+   ◝(●˙꒳˙●)◜ 
